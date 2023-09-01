@@ -4,6 +4,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 
 #todo Creando la aplicacion
+
 app=Flask(__name__)
 
 #todo configurando la aplicacion con la BD
